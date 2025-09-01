@@ -1,3 +1,10 @@
+### Cole Byrne's First CS193 Homework
+- I like having another CS Class
+- I'm exicted to learn some CS tools to use in the future
+- Ill get to meet some more CS majors 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
